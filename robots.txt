@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://riabsm.github.io/WjP/sitemap.WjP.gz
